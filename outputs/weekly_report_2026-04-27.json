@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-04-27",
+  "chart_sources_used": 4,
+  "top_songs": [
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 354.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "man i need \u2014 olivia dean",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "total_score": 286.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "drop dead \u2014 olivia rodrigo",
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "total_score": 268.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "be her \u2014 ella langley",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "total_score": 254.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "daisies \u2014 justin bieber",
+      "title": "DAISIES",
+      "artist": "Justin Bieber",
+      "total_score": 246.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "babydoll \u2014 dominic fike",
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "total_score": 242.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "doors \u2014 noah kahan",
+      "title": "Doors",
+      "artist": "Noah Kahan",
+      "total_score": 236.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the great divide \u2014 noah kahan",
+      "title": "The Great Divide",
+      "artist": "Noah Kahan",
+      "total_score": 216.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "risk it all \u2014 bruno mars",
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "total_score": 204.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "end of august \u2014 noah kahan",
+      "title": "End of August",
+      "artist": "Noah Kahan",
+      "total_score": 198.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Noah Kahan",
+      "total_score": 2430.0,
+      "appearances": 40
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 1010.0,
+      "appearances": 16
+    },
+    {
+      "artist": "Justin Bieber",
+      "total_score": 986.0,
+      "appearances": 15
+    },
+    {
+      "artist": "Olivia Dean",
+      "total_score": 474.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Bruno Mars",
+      "total_score": 370.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Dominic Fike",
+      "total_score": 342.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 268.0,
+      "appearances": 3
+    },
+    {
+      "artist": "BTS",
+      "total_score": 256.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 236.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Taylor Swift",
+      "total_score": 216.0,
+      "appearances": 3
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Alternative",
+      "total_score": 1028.0,
+      "track_count": 18
+    },
+    {
+      "genre": "Country",
+      "total_score": 784.0,
+      "track_count": 14
+    },
+    {
+      "genre": "Pop",
+      "total_score": 400.0,
+      "track_count": 6
+    },
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 228.0,
+      "track_count": 8
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 62.0,
+      "track_count": 2
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Dashboard",
+      "artist": "Noah Kahan",
+      "score": 88.0
+    },
+    {
+      "title": "Downfall",
+      "artist": "Noah Kahan",
+      "score": 86.0
+    },
+    {
+      "title": "Porch Light",
+      "artist": "Noah Kahan",
+      "score": 80.0
+    },
+    {
+      "title": "Paid Time Off",
+      "artist": "Noah Kahan",
+      "score": 78.0
+    },
+    {
+      "title": "Haircut",
+      "artist": "Noah Kahan",
+      "score": 76.0
+    }
+  ],
+  "song_of_week": {
+    "key": "choosin' texas \u2014 ella langley",
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "total_score": 354.0,
+    "source_count": 4,
+    "coverage": "4/4 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Noah Kahan",
+    "total_score": 2430.0,
+    "appearances": 40
+  },
+  "genre_of_week": {
+    "genre": "Alternative",
+    "total_score": 1028.0,
+    "track_count": 18
+  },
+  "one_to_watch": {
+    "title": "Dashboard",
+    "artist": "Noah Kahan",
+    "score": 88.0
+  }
+}
