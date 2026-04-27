@@ -29,9 +29,12 @@ jobs:
         run: python pipeline.py
 
       - name: Commit and push outputs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "datadropfriday-bot"
           git config user.email "datadropfriday@gmail.com"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}
           git add -f outputs/ data/
           git diff --staged --quiet || git commit -m "weekly data drop: $(date +%Y-%m-%d)"
           git push
