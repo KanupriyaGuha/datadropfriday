@@ -1,0 +1,35 @@
+name: Weekly Music Pipeline
+
+on:
+  schedule:
+    - cron: '0 4 * * 5'   # 4am UTC Friday = Thursday night US time
+  workflow_dispatch:       # allows manual trigger from GitHub UI anytime
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pandas matplotlib beautifulsoup4 \
+                      python-dotenv billboard.py pytrends
+
+      - name: Run pipeline
+        run: python pipeline.py
+
+      - name: Commit and push outputs
+        run: |
+          git config user.name "datadropfriday-bot"
+          git config user.email "datadropfriday@gmail.com"
+          git add -f outputs/ data/
+          git diff --staged --quiet || git commit -m "weekly data drop: $(date +%Y-%m-%d)"
+          git push

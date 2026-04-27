@@ -19,10 +19,14 @@ Outputs (in outputs/ folder):
   - raw data in data/raw_YYYY-MM-DD.csv
 """
 
+import matplotlib
+matplotlib.use("Agg")  # headless backend — required for GitHub Actions (no display)
+
 import requests
 import pandas as pd
 import json
 import os
+import shutil
 import time
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -450,6 +454,7 @@ def generate_visualizations(report: dict):
         path = f"{OUTPUT_DIR}/top_songs_{TODAY}.png"
         plt.savefig(path, dpi=180, bbox_inches="tight", facecolor=BG)
         plt.close()
+        shutil.copy(path, f"{OUTPUT_DIR}/top_songs_latest.png")
         print(f"✅ Saved: {path}")
 
     # Chart 2 — Top Artists
@@ -473,6 +478,7 @@ def generate_visualizations(report: dict):
         path = f"{OUTPUT_DIR}/top_artists_{TODAY}.png"
         plt.savefig(path, dpi=180, bbox_inches="tight", facecolor=BG)
         plt.close()
+        shutil.copy(path, f"{OUTPUT_DIR}/top_artists_latest.png")
         print(f"✅ Saved: {path}")
 
     # Chart 3 — Weekly Summary Card
@@ -541,6 +547,7 @@ def generate_visualizations(report: dict):
     path = f"{OUTPUT_DIR}/weekly_summary_{TODAY}.png"
     plt.savefig(path, dpi=180, bbox_inches="tight", facecolor=BG)
     plt.close()
+    shutil.copy(path, f"{OUTPUT_DIR}/weekly_summary_latest.png")
     print(f"✅ Saved: {path}")
 
 
