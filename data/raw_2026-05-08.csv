@@ -1,0 +1,201 @@
+rank,title,artist,album,genre,streams,source,fetched_at,score,key
+1,Choosin' Texas,Ella Langley,,Country,0,apple_music,2026-05-08,100.0,choosin' texas — ella langley
+2,I Can't Love You Anymore,Ella Langley & Morgan Wallen,,Country,0,apple_music,2026-05-08,98.0,i can't love you anymore — ella langley & morgan wallen
+3,Be Her,Ella Langley,,Country,0,apple_music,2026-05-08,96.0,be her — ella langley
+4,Billie Jean,Michael Jackson,,Pop,0,apple_music,2026-05-08,94.0,billie jean — michael jackson
+5,Human Nature,Michael Jackson,,Pop,0,apple_music,2026-05-08,92.0,human nature — michael jackson
+6,20 Cigarettes,Morgan Wallen,,Country,0,apple_music,2026-05-08,90.0,20 cigarettes — morgan wallen
+7,drop dead,Olivia Rodrigo,,Pop,0,apple_music,2026-05-08,88.0,drop dead — olivia rodrigo
+8,Dirty Diana,Michael Jackson,,Pop,0,apple_music,2026-05-08,86.0,dirty diana — michael jackson
+9,I'm The Problem,Morgan Wallen,,Country,0,apple_music,2026-05-08,84.0,i'm the problem — morgan wallen
+10,Doors,Noah Kahan,,Alternative,0,apple_music,2026-05-08,82.0,doors — noah kahan
+11,Don't Stop 'Til You Get Enough,Michael Jackson,,Pop,0,apple_music,2026-05-08,80.0,don't stop 'til you get enough — michael jackson
+12,E85,Don Toliver,,Hip-Hop/Rap,0,apple_music,2026-05-08,78.0,e85 — don toliver
+13,Man I Need,Olivia Dean,,Pop,0,apple_music,2026-05-08,76.0,man i need — olivia dean
+14,Bottom Of Your Boots,Ella Langley,,Country,0,apple_music,2026-05-08,74.0,bottom of your boots — ella langley
+15,The Great Divide,Noah Kahan,,Alternative,0,apple_music,2026-05-08,72.0,the great divide — noah kahan
+16,What I Want,Morgan Wallen & Tate McRae,,Country,0,apple_music,2026-05-08,70.0,what i want — morgan wallen & tate mcrae
+17,Be By You,Luke Combs,,Country,0,apple_music,2026-05-08,68.0,be by you — luke combs
+18,Dandelion,Ella Langley,,Country,0,apple_music,2026-05-08,66.0,dandelion — ella langley
+19,Freestyle,Lil Baby,,Hip-Hop/Rap,0,apple_music,2026-05-08,64.0,freestyle — lil baby
+20,Beat It,Michael Jackson,,Pop,0,apple_music,2026-05-08,62.0,beat it — michael jackson
+21,DAISIES,Justin Bieber,,Pop,0,apple_music,2026-05-08,60.0,daisies — justin bieber
+22,In A Minute,Lil Baby,,Hip-Hop/Rap,0,apple_music,2026-05-08,57.99999999999999,in a minute — lil baby
+23,Just In Case,Morgan Wallen,,Country,0,apple_music,2026-05-08,56.00000000000001,just in case — morgan wallen
+24,Beauty and a Beat (feat. Nicki Minaj),Justin Bieber,,Pop,0,apple_music,2026-05-08,54.0,beauty and a beat (feat. nicki minaj) — justin bieber
+25,Freakin’ Out,Dexter and The Moonrocks,,Rock,0,apple_music,2026-05-08,52.0,freakin’ out — dexter and the moonrocks
+26,WAIT FOR U (feat. Drake & Tems),Future,,Hip-Hop/Rap,0,apple_music,2026-05-08,50.0,wait for u (feat. drake & tems) — future
+27,Porch Light,Noah Kahan,,Alternative,0,apple_music,2026-05-08,48.0,porch light — noah kahan
+28,Rock With You,Michael Jackson,,Pop,0,apple_music,2026-05-08,46.0,rock with you — michael jackson
+29,Spin You Around (1/24),Morgan Wallen,,Country,0,apple_music,2026-05-08,44.0,spin you around (1/24) — morgan wallen
+30,POP DAT THANG,DaBaby,,Hip-Hop/Rap,0,apple_music,2026-05-08,42.0,pop dat thang — dababy
+31,P.Y.T. (Pretty Young Thing),Michael Jackson,,Pop,0,apple_music,2026-05-08,40.0,p.y.t. (pretty young thing) — michael jackson
+32,Willing and Able,Noah Kahan,,Alternative,0,apple_music,2026-05-08,38.0,willing and able — noah kahan
+33,Loving Life Again,Ella Langley,,Country,0,apple_music,2026-05-08,36.0,loving life again — ella langley
+34,Ordinary,Alex Warren,,Pop,0,apple_music,2026-05-08,34.0,ordinary — alex warren
+35,iloveitiloveitiloveit,Bella Kay,,Alternative,0,apple_music,2026-05-08,32.0,iloveitiloveitiloveit — bella kay
+36,Last Night,Morgan Wallen,,Country,0,apple_music,2026-05-08,30.0,last night — morgan wallen
+37,Boston,STELLA LEFTY,,Country,0,apple_music,2026-05-08,28.000000000000004,boston — stella lefty
+38,Best I Ever Had,Drake,,Hip-Hop/Rap,0,apple_music,2026-05-08,26.0,best i ever had — drake
+39,YUKON,Justin Bieber,,Pop,0,apple_music,2026-05-08,24.0,yukon — justin bieber
+40,Folded,Kehlani,,R&B/Soul,0,apple_music,2026-05-08,22.0,folded — kehlani
+41,End of August,Noah Kahan,,Alternative,0,apple_music,2026-05-08,20.0,end of august — noah kahan
+42,White Keys,Dominic Fike,,Alternative,0,apple_music,2026-05-08,18.0,white keys — dominic fike
+43,FDO,Pooh Shiesty,,Hip-Hop/Rap,0,apple_music,2026-05-08,16.0,fdo — pooh shiesty
+44,Remember the Time,Michael Jackson,,Pop,0,apple_music,2026-05-08,14.000000000000002,remember the time — michael jackson
+45,Smooth Criminal,Michael Jackson,,Pop,0,apple_music,2026-05-08,12.0,smooth criminal — michael jackson
+46,American Cars,Noah Kahan,,Alternative,0,apple_music,2026-05-08,10.0,american cars — noah kahan
+47,LIKE ME (feat. 42 Dugg & Lil Baby),Future,,Hip-Hop/Rap,0,apple_music,2026-05-08,8.0,like me (feat. 42 dugg & lil baby) — future
+48,I Had Some Help (feat. Morgan Wallen),Post Malone,,Country,0,apple_music,2026-05-08,6.0,i had some help (feat. morgan wallen) — post malone
+49,I Got Better,Morgan Wallen,,Country,0,apple_music,2026-05-08,4.0,i got better — morgan wallen
+50,Cinderella (feat. Ty Dolla $ign),Mac Miller,,Music,0,apple_music,2026-05-08,2.0,cinderella (feat. ty dolla $ign) — mac miller
+1,Beauty And A Beat (w/ Nicki Minaj ),Justin Bieber,,,6694186,spotify_global,2026-05-08,100.0,beauty and a beat (w/ nicki minaj ) — justin bieber
+2,SWIM,BTS,,,5731579,spotify_global,2026-05-08,98.0,swim — bts
+3,Billie Jean,Michael Jackson,,,5562954,spotify_global,2026-05-08,96.0,billie jean — michael jackson
+4,Babydoll,Dominic Fike,,,4961038,spotify_global,2026-05-08,94.0,babydoll — dominic fike
+5,drop dead,Olivia Rodrigo,,,4635330,spotify_global,2026-05-08,92.0,drop dead — olivia rodrigo
+6,Beat It,Michael Jackson,,,4387595,spotify_global,2026-05-08,90.0,beat it — michael jackson
+7,back to friends,sombr,,,3533772,spotify_global,2026-05-08,88.0,back to friends — sombr
+8,The Fate of Ophelia,Taylor Swift,,,3432522,spotify_global,2026-05-08,86.0,the fate of ophelia — taylor swift
+9,End of Beginning,Djo,,,3301865,spotify_global,2026-05-08,84.0,end of beginning — djo
+10,DAISIES,Justin Bieber,,,3275917,spotify_global,2026-05-08,82.0,daisies — justin bieber
+11,Don't Stop 'Til You Get Enough - Single Version,Michael Jackson,,,3244105,spotify_global,2026-05-08,80.0,don't stop 'til you get enough - single version — michael jackson
+12,Man I Need,Olivia Dean,,,3237472,spotify_global,2026-05-08,78.0,man i need — olivia dean
+13,Risk It All,Bruno Mars,,,3210852,spotify_global,2026-05-08,76.0,risk it all — bruno mars
+14,The One That Got Away,Katy Perry,,,3206084,spotify_global,2026-05-08,74.0,the one that got away — katy perry
+15,Raindance (w/ Tems ),Dave,,,3157387,spotify_global,2026-05-08,72.0,raindance (w/ tems ) — dave
+16,Stateside + Zara Larsson (w/ Zara Larsson ),PinkPantheress,,,3117221,spotify_global,2026-05-08,70.0,stateside + zara larsson (w/ zara larsson ) — pinkpantheress
+17,Dracula - JENNIE Remix (w/ JENNIE ),Tame Impala,,,2964058,spotify_global,2026-05-08,68.0,dracula - jennie remix (w/ jennie ) — tame impala
+18,Human Nature,Michael Jackson,,,2925534,spotify_global,2026-05-08,66.0,human nature — michael jackson
+19,Ordinary,Alex Warren,,,2924071,spotify_global,2026-05-08,64.0,ordinary — alex warren
+20,So Easy (To Fall In Love),Olivia Dean,,,2906340,spotify_global,2026-05-08,62.0,so easy (to fall in love) — olivia dean
+21,Iris,The Goo Goo Dolls,,,2877711,spotify_global,2026-05-08,60.0,iris — the goo goo dolls
+22,DtMF,Bad Bunny,,,2858720,spotify_global,2026-05-08,57.99999999999999,dtmf — bad bunny
+23,Earrings,Malcolm Todd,,,2858632,spotify_global,2026-05-08,56.00000000000001,earrings — malcolm todd
+24,Die With A Smile (w/ Bruno Mars ),Lady Gaga,,,2826533,spotify_global,2026-05-08,54.0,die with a smile (w/ bruno mars ) — lady gaga
+25,Choosin' Texas,Ella Langley,,,2712768,spotify_global,2026-05-08,52.0,choosin' texas — ella langley
+26,Love Me Not,Ravyn Lenae,,,2692939,spotify_global,2026-05-08,50.0,love me not — ravyn lenae
+27,Lush Life,Zara Larsson,,,2605524,spotify_global,2026-05-08,48.0,lush life — zara larsson
+28,WHERE IS MY HUSBAND!,RAYE,,,2595352,spotify_global,2026-05-08,46.0,where is my husband! — raye
+29,Sweater Weather,The Neighbourhood,,,2583893,spotify_global,2026-05-08,44.0,sweater weather — the neighbourhood
+30,Smooth Criminal - 2012 Remaster,Michael Jackson,,,2555257,spotify_global,2026-05-08,42.0,smooth criminal - 2012 remaster — michael jackson
+31,BIRDS OF A FEATHER,Billie Eilish,,,2537809,spotify_global,2026-05-08,40.0,birds of a feather — billie eilish
+32,White Keys,Dominic Fike,,,2499779,spotify_global,2026-05-08,38.0,white keys — dominic fike
+33,Self Aware,Temper City,,,2488808,spotify_global,2026-05-08,36.0,self aware — temper city
+34,Confident - Single Version (w/ Chance the Rapper ),Justin Bieber,,,2431836,spotify_global,2026-05-08,34.0,confident - single version (w/ chance the rapper ) — justin bieber
+35,iloveitiloveitiloveit,Bella Kay,,,2425319,spotify_global,2026-05-08,32.0,iloveitiloveitiloveit — bella kay
+36,"Golden (w/ Ejae , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast )",HUNTR/X,,,2403106,spotify_global,2026-05-08,30.0,"golden (w/ ejae , audrey nuna , rei ami , kpop demon hunters cast ) — huntr/x"
+37,Baby (w/ Ludacris ),Justin Bieber,,,2396324,spotify_global,2026-05-08,28.000000000000004,baby (w/ ludacris ) — justin bieber
+38,Body to Body,BTS,,,2328531,spotify_global,2026-05-08,26.0,body to body — bts
+39,Locked out of Heaven,Bruno Mars,,,2312926,spotify_global,2026-05-08,24.0,locked out of heaven — bruno mars
+40,I Just Might,Bruno Mars,,,2295921,spotify_global,2026-05-08,22.0,i just might — bruno mars
+41,Sailor Song,Gigi Perez,,,2289618,spotify_global,2026-05-08,20.0,sailor song — gigi perez
+42,Dracula,Tame Impala,,,2288153,spotify_global,2026-05-08,18.0,dracula — tame impala
+43,2.0,BTS,,,2288150,spotify_global,2026-05-08,16.0,2.0 — bts
+44,BAILE INoLVIDABLE,Bad Bunny,,,2265546,spotify_global,2026-05-08,14.000000000000002,baile inolvidable — bad bunny
+45,Hooligan,BTS,,,2232161,spotify_global,2026-05-08,12.0,hooligan — bts
+46,Manchild,Sabrina Carpenter,,,2186176,spotify_global,2026-05-08,10.0,manchild — sabrina carpenter
+47,Bad - 2012 Remaster,Michael Jackson,,,2175151,spotify_global,2026-05-08,8.0,bad - 2012 remaster — michael jackson
+48,Mr. Brightside,The Killers,,,2160871,spotify_global,2026-05-08,6.0,mr. brightside — the killers
+49,Every Breath You Take,The Police,,,2129659,spotify_global,2026-05-08,4.0,every breath you take — the police
+50,Homewrecker,sombr,,,2128914,spotify_global,2026-05-08,2.0,homewrecker — sombr
+1,drop dead,Olivia Rodrigo,,,2057939,spotify_us,2026-05-08,100.0,drop dead — olivia rodrigo
+2,Choosin' Texas,Ella Langley,,,1624593,spotify_us,2026-05-08,98.0,choosin' texas — ella langley
+3,Earrings,Malcolm Todd,,,1181274,spotify_us,2026-05-08,96.0,earrings — malcolm todd
+4,Babydoll,Dominic Fike,,,1100015,spotify_us,2026-05-08,94.0,babydoll — dominic fike
+5,Billie Jean,Michael Jackson,,,1052547,spotify_us,2026-05-08,92.0,billie jean — michael jackson
+6,Be Her,Ella Langley,,,997934,spotify_us,2026-05-08,90.0,be her — ella langley
+7,Doors,Noah Kahan,,,977881,spotify_us,2026-05-08,88.0,doors — noah kahan
+8,Beauty And A Beat (w/ Nicki Minaj ),Justin Bieber,,,942216,spotify_us,2026-05-08,86.0,beauty and a beat (w/ nicki minaj ) — justin bieber
+9,Man I Need,Olivia Dean,,,887331,spotify_us,2026-05-08,84.0,man i need — olivia dean
+10,Stateside + Zara Larsson (w/ Zara Larsson ),PinkPantheress,,,879227,spotify_us,2026-05-08,82.0,stateside + zara larsson (w/ zara larsson ) — pinkpantheress
+11,Mr. Brightside,The Killers,,,872478,spotify_us,2026-05-08,80.0,mr. brightside — the killers
+12,DAISIES,Justin Bieber,,,846233,spotify_us,2026-05-08,78.0,daisies — justin bieber
+13,Beat It,Michael Jackson,,,802846,spotify_us,2026-05-08,76.0,beat it — michael jackson
+14,iloveitiloveitiloveit,Bella Kay,,,801158,spotify_us,2026-05-08,74.0,iloveitiloveitiloveit — bella kay
+15,End of August,Noah Kahan,,,794850,spotify_us,2026-05-08,72.0,end of august — noah kahan
+16,The Great Divide,Noah Kahan,,,786524,spotify_us,2026-05-08,70.0,the great divide — noah kahan
+17,Freakinâ Out,Dexter and The Moonrocks,,,783984,spotify_us,2026-05-08,68.0,freakinâ out — dexter and the moonrocks
+18,Human Nature,Michael Jackson,,,777260,spotify_us,2026-05-08,66.0,human nature — michael jackson
+19,Dashboard,Noah Kahan,,,777213,spotify_us,2026-05-08,64.0,dashboard — noah kahan
+20,Willing and Able,Noah Kahan,,,772561,spotify_us,2026-05-08,62.0,willing and able — noah kahan
+21,I Can't Love You Anymore (w/ Morgan Wallen ),Ella Langley,,,762811,spotify_us,2026-05-08,60.0,i can't love you anymore (w/ morgan wallen ) — ella langley
+22,Don't Stop 'Til You Get Enough - Single Version,Michael Jackson,,,762779,spotify_us,2026-05-08,57.99999999999999,don't stop 'til you get enough - single version — michael jackson
+23,I Got Better,Morgan Wallen,,,753085,spotify_us,2026-05-08,56.00000000000001,i got better — morgan wallen
+24,Broken Window Serenade,Whiskey Myers,,,746230,spotify_us,2026-05-08,54.0,broken window serenade — whiskey myers
+25,E85,Don Toliver,,,731924,spotify_us,2026-05-08,52.0,e85 — don toliver
+26,So Easy (To Fall In Love),Olivia Dean,,,726771,spotify_us,2026-05-08,50.0,so easy (to fall in love) — olivia dean
+27,American Cars,Noah Kahan,,,719907,spotify_us,2026-05-08,48.0,american cars — noah kahan
+28,Risk It All,Bruno Mars,,,712719,spotify_us,2026-05-08,46.0,risk it all — bruno mars
+29,weren't for the wind,Ella Langley,,,702648,spotify_us,2026-05-08,44.0,weren't for the wind — ella langley
+30,Dreams - 2001 Remaster,Fleetwood Mac,,,702009,spotify_us,2026-05-08,42.0,dreams - 2001 remaster — fleetwood mac
+31,Porch Light,Noah Kahan,,,694226,spotify_us,2026-05-08,40.0,porch light — noah kahan
+32,DtMF,Bad Bunny,,,693446,spotify_us,2026-05-08,38.0,dtmf — bad bunny
+33,Staying Still,Noah Kahan,,,692667,spotify_us,2026-05-08,36.0,staying still — noah kahan
+34,back to friends,sombr,,,686064,spotify_us,2026-05-08,34.0,back to friends — sombr
+35,Downfall,Noah Kahan,,,672249,spotify_us,2026-05-08,32.0,downfall — noah kahan
+36,Ordinary,Alex Warren,,,656491,spotify_us,2026-05-08,30.0,ordinary — alex warren
+37,White Keys,Dominic Fike,,,654820,spotify_us,2026-05-08,28.000000000000004,white keys — dominic fike
+38,Haircut,Noah Kahan,,,647075,spotify_us,2026-05-08,26.0,haircut — noah kahan
+39,Cinderella (w/ Ty Dolla $ign ),Mac Miller,,,639983,spotify_us,2026-05-08,24.0,cinderella (w/ ty dolla $ign ) — mac miller
+40,Iris,The Goo Goo Dolls,,,638625,spotify_us,2026-05-08,22.0,iris — the goo goo dolls
+41,End of Beginning,Djo,,,632920,spotify_us,2026-05-08,20.0,end of beginning — djo
+42,505,Arctic Monkeys,,,631504,spotify_us,2026-05-08,18.0,505 — arctic monkeys
+43,I Just Might,Bruno Mars,,,625502,spotify_us,2026-05-08,16.0,i just might — bruno mars
+44,The One That Got Away,Katy Perry,,,609227,spotify_us,2026-05-08,14.000000000000002,the one that got away — katy perry
+45,The Fate of Ophelia,Taylor Swift,,,603408,spotify_us,2026-05-08,12.0,the fate of ophelia — taylor swift
+46,Boston,STELLA LEFTY,,,593268,spotify_us,2026-05-08,10.0,boston — stella lefty
+47,Dracula - JENNIE Remix (w/ JENNIE ),Tame Impala,,,589090,spotify_us,2026-05-08,8.0,dracula - jennie remix (w/ jennie ) — tame impala
+48,"Golden (w/ Ejae , AUDREY NUNA , REI AMI , KPop Demon Hunters Cast )",HUNTR/X,,,583341,spotify_us,2026-05-08,6.0,"golden (w/ ejae , audrey nuna , rei ami , kpop demon hunters cast ) — huntr/x"
+49,Deny Deny Deny,Noah Kahan,,,566635,spotify_us,2026-05-08,4.0,deny deny deny — noah kahan
+50,Confident - Single Version (w/ Chance the Rapper ),Justin Bieber,,,563180,spotify_us,2026-05-08,2.0,confident - single version (w/ chance the rapper ) — justin bieber
+1,Choosin' Texas,Ella Langley,,,0,billboard,2026-05-08,100.0,choosin' texas — ella langley
+2,I Just Might,Bruno Mars,,,0,billboard,2026-05-08,98.0,i just might — bruno mars
+3,Man I Need,Olivia Dean,,,0,billboard,2026-05-08,96.0,man i need — olivia dean
+4,Drop Dead,Olivia Rodrigo,,,0,billboard,2026-05-08,94.0,drop dead — olivia rodrigo
+5,Be Her,Ella Langley,,,0,billboard,2026-05-08,92.0,be her — ella langley
+6,So Easy (To Fall In Love),Olivia Dean,,,0,billboard,2026-05-08,90.0,so easy (to fall in love) — olivia dean
+7,I Can't Love You Anymore,Ella Langley & Morgan Wallen,,,0,billboard,2026-05-08,88.0,i can't love you anymore — ella langley & morgan wallen
+8,Ordinary,Alex Warren,,,0,billboard,2026-05-08,86.0,ordinary — alex warren
+9,Doors,Noah Kahan,,,0,billboard,2026-05-08,84.0,doors — noah kahan
+10,Folded,Kehlani,,,0,billboard,2026-05-08,82.0,folded — kehlani
+11,The Great Divide,Noah Kahan,,,0,billboard,2026-05-08,80.0,the great divide — noah kahan
+12,Daisies,Justin Bieber,,,0,billboard,2026-05-08,78.0,daisies — justin bieber
+13,Golden,"HUNTR/X: EJAE, Audrey Nuna & REI AMI",,,0,billboard,2026-05-08,76.0,"golden — huntr/x: ejae, audrey nuna & rei ami"
+14,End Of August,Noah Kahan,,,0,billboard,2026-05-08,74.0,end of august — noah kahan
+15,Stateside,PinkPantheress With Zara Larsson,,,0,billboard,2026-05-08,72.0,stateside — pinkpantheress with zara larsson
+16,American Cars,Noah Kahan,,,0,billboard,2026-05-08,70.0,american cars — noah kahan
+17,The Fate Of Ophelia,Taylor Swift,,,0,billboard,2026-05-08,68.0,the fate of ophelia — taylor swift
+18,Dracula,Tame Impala & JENNIE,,,0,billboard,2026-05-08,66.0,dracula — tame impala & jennie
+19,Dashboard,Noah Kahan,,,0,billboard,2026-05-08,64.0,dashboard — noah kahan
+20,Risk It All,Bruno Mars,,,0,billboard,2026-05-08,62.0,risk it all — bruno mars
+21,Porch Light,Noah Kahan,,,0,billboard,2026-05-08,60.0,porch light — noah kahan
+22,Sleepless In A Hotel Room,Luke Combs,,,0,billboard,2026-05-08,57.99999999999999,sleepless in a hotel room — luke combs
+23,Downfall,Noah Kahan,,,0,billboard,2026-05-08,56.00000000000001,downfall — noah kahan
+24,Yukon,Justin Bieber,,,0,billboard,2026-05-08,54.0,yukon — justin bieber
+25,Opalite,Taylor Swift,,,0,billboard,2026-05-08,52.0,opalite — taylor swift
+26,Willing And Able,Noah Kahan,,,0,billboard,2026-05-08,50.0,willing and able — noah kahan
+27,Babydoll,Dominic Fike,,,0,billboard,2026-05-08,48.0,babydoll — dominic fike
+28,Haircut,Noah Kahan,,,0,billboard,2026-05-08,46.0,haircut — noah kahan
+29,Paid Time Off,Noah Kahan,,,0,billboard,2026-05-08,44.0,paid time off — noah kahan
+30,Homewrecker,sombr,,,0,billboard,2026-05-08,42.0,homewrecker — sombr
+31,Be By You,Luke Combs,,,0,billboard,2026-05-08,40.0,be by you — luke combs
+32,Swim,BTS,,,0,billboard,2026-05-08,38.0,swim — bts
+33,23,Noah Kahan,,,0,billboard,2026-05-08,36.0,23 — noah kahan
+34,Deny Deny Deny,Noah Kahan,,,0,billboard,2026-05-08,34.0,deny deny deny — noah kahan
+35,E85,Don Toliver,,,0,billboard,2026-05-08,32.0,e85 — don toliver
+36,Loving Life Again,Ella Langley,,,0,billboard,2026-05-08,30.0,loving life again — ella langley
+37,Iloveitiloveitiloveit,Bella Kay,,,0,billboard,2026-05-08,28.000000000000004,iloveitiloveitiloveit — bella kay
+38,Billie Jean,Michael Jackson,,,0,billboard,2026-05-08,26.0,billie jean — michael jackson
+39,The Fall,Cody Johnson,,,0,billboard,2026-05-08,24.0,the fall — cody johnson
+40,Earrings,Malcolm Todd,,,0,billboard,2026-05-08,22.0,earrings — malcolm todd
+41,Change My Mind,Riley Green,,,0,billboard,2026-05-08,20.0,change my mind — riley green
+42,Boston,Stella Lefty,,,0,billboard,2026-05-08,18.0,boston — stella lefty
+43,Pop Dat Thang,DaBaby,,,0,billboard,2026-05-08,16.0,pop dat thang — dababy
+44,Staying Still,Noah Kahan,,,0,billboard,2026-05-08,14.000000000000002,staying still — noah kahan
+45,All Them Horses,Noah Kahan,,,0,billboard,2026-05-08,12.0,all them horses — noah kahan
+46,Freakin' Out,Dexter And The Moonrocks,,,0,billboard,2026-05-08,10.0,freakin' out — dexter and the moonrocks
+47,Midnight Sun,Zara Larsson,,,0,billboard,2026-05-08,8.0,midnight sun — zara larsson
+48,We Go Way Back,Noah Kahan,,,0,billboard,2026-05-08,6.0,we go way back — noah kahan
+49,American Girls,Harry Styles,,,0,billboard,2026-05-08,4.0,american girls — harry styles
+50,Dan,Noah Kahan,,,0,billboard,2026-05-08,2.0,dan — noah kahan
