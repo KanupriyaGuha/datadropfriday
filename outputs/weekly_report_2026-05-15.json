@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-05-15",
+  "chart_sources_used": 4,
+  "top_songs": [
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 366.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "billie jean \u2014 michael jackson",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "total_score": 354.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "man i need \u2014 olivia dean",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "total_score": 340.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "human nature \u2014 michael jackson",
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "total_score": 310.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "be her \u2014 ella langley",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "total_score": 286.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "beat it \u2014 michael jackson",
+      "title": "Beat It",
+      "artist": "Michael Jackson",
+      "total_score": 282.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "babydoll \u2014 dominic fike",
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "total_score": 248.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "drop dead \u2014 olivia rodrigo",
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "total_score": 242.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "ordinary \u2014 alex warren",
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "total_score": 218.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "doors \u2014 noah kahan",
+      "title": "Doors",
+      "artist": "Noah Kahan",
+      "total_score": 218.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Michael Jackson",
+      "total_score": 1488.0,
+      "appearances": 26
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 974.0,
+      "appearances": 13
+    },
+    {
+      "artist": "Noah Kahan",
+      "total_score": 642.0,
+      "appearances": 20
+    },
+    {
+      "artist": "Olivia Dean",
+      "total_score": 542.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Justin Bieber",
+      "total_score": 500.0,
+      "appearances": 10
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 452.0,
+      "appearances": 9
+    },
+    {
+      "artist": "Bruno Mars",
+      "total_score": 352.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 338.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Dominic Fike",
+      "total_score": 324.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Alex Warren",
+      "total_score": 222.0,
+      "appearances": 5
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Country",
+      "total_score": 1066.0,
+      "track_count": 18
+    },
+    {
+      "genre": "Pop",
+      "total_score": 750.0,
+      "track_count": 14
+    },
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 524.0,
+      "track_count": 12
+    },
+    {
+      "genre": "Alternative",
+      "total_score": 114.0,
+      "track_count": 3
+    },
+    {
+      "genre": "Rock",
+      "total_score": 54.0,
+      "track_count": 1
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 92.0
+    },
+    {
+      "title": "Doors",
+      "artist": "Noah Kahan",
+      "score": 76.0
+    },
+    {
+      "title": "Freakin\u00e2\u0080\u0099 Out",
+      "artist": "Dexter and The Moonrocks",
+      "score": 72.0
+    },
+    {
+      "title": "Dreams - 2001 Remaster",
+      "artist": "Fleetwood Mac",
+      "score": 70.0
+    },
+    {
+      "title": "I Got Better",
+      "artist": "Morgan Wallen",
+      "score": 64.0
+    }
+  ],
+  "song_of_week": {
+    "key": "choosin' texas \u2014 ella langley",
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "total_score": 366.0,
+    "source_count": 4,
+    "coverage": "4/4 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Michael Jackson",
+    "total_score": 1488.0,
+    "appearances": 26
+  },
+  "genre_of_week": {
+    "genre": "Country",
+    "total_score": 1066.0,
+    "track_count": 18
+  },
+  "one_to_watch": {
+    "title": "Be Her",
+    "artist": "Ella Langley",
+    "score": 92.0
+  }
+}
