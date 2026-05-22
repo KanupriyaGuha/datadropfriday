@@ -1,0 +1,221 @@
+{
+  "week_of": "2026-05-22",
+  "chart_sources_used": 4,
+  "top_songs": [
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 334.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "billie jean \u2014 michael jackson",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "total_score": 298.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "janice stfu \u2014 drake",
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "total_score": 294.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "national treasures \u2014 drake",
+      "title": "National Treasures",
+      "artist": "Drake",
+      "total_score": 274.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "whisper my name \u2014 drake",
+      "title": "Whisper My Name",
+      "artist": "Drake",
+      "total_score": 270.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "shabang \u2014 drake",
+      "title": "Shabang",
+      "artist": "Drake",
+      "total_score": 260.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "human nature \u2014 michael jackson",
+      "title": "Human Nature",
+      "artist": "Michael Jackson",
+      "total_score": 240.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "be her \u2014 ella langley",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "total_score": 232.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "babydoll \u2014 dominic fike",
+      "title": "Babydoll",
+      "artist": "Dominic Fike",
+      "total_score": 226.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "2 hard 4 the radio \u2014 drake",
+      "title": "2 Hard 4 The Radio",
+      "artist": "Drake",
+      "total_score": 224.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Drake",
+      "total_score": 3288.0,
+      "appearances": 52
+    },
+    {
+      "artist": "Michael Jackson",
+      "total_score": 1092.0,
+      "appearances": 22
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 718.0,
+      "appearances": 13
+    },
+    {
+      "artist": "Olivia Dean",
+      "total_score": 370.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Justin Bieber",
+      "total_score": 284.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Bruno Mars",
+      "total_score": 268.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Dominic Fike",
+      "total_score": 242.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 220.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Taylor Swift",
+      "total_score": 202.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 194.0,
+      "appearances": 3
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 1674.0,
+      "track_count": 25
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 444.0,
+      "track_count": 9
+    },
+    {
+      "genre": "Country",
+      "total_score": 304.0,
+      "track_count": 10
+    },
+    {
+      "genre": "Pop",
+      "total_score": 128.0,
+      "track_count": 6
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 82.0
+    },
+    {
+      "title": "Make Them Pay",
+      "artist": "Drake",
+      "score": 66.0
+    },
+    {
+      "title": "B's On The Table (w/ 21 Savage )",
+      "artist": "Drake",
+      "score": 60.0
+    },
+    {
+      "title": "Cinderella (w/ Ty Dolla $ign )",
+      "artist": "Mac Miller",
+      "score": 57.99999999999999
+    },
+    {
+      "title": "Burning Bridges",
+      "artist": "Drake",
+      "score": 56.00000000000001
+    }
+  ],
+  "song_of_week": {
+    "key": "choosin' texas \u2014 ella langley",
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "total_score": 334.0,
+    "source_count": 4,
+    "coverage": "4/4 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Drake",
+    "total_score": 3288.0,
+    "appearances": 52
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 1674.0,
+    "track_count": 25
+  },
+  "one_to_watch": {
+    "title": "Be Her",
+    "artist": "Ella Langley",
+    "score": 82.0
+  }
+}
