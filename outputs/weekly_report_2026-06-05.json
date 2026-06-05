@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-06-05",
+  "chart_sources_used": 4,
+  "top_songs": [
+    {
+      "key": "janice stfu \u2014 drake",
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "total_score": 382.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 364.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "billie jean \u2014 michael jackson",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "total_score": 306.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "hate that i made you love me \u2014 ariana grande",
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "total_score": 282.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "shabang \u2014 drake",
+      "title": "Shabang",
+      "artist": "Drake",
+      "total_score": 272.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "be her \u2014 ella langley",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "total_score": 264.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "national treasures \u2014 drake",
+      "title": "National Treasures",
+      "artist": "Drake",
+      "total_score": 254.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "man i need \u2014 olivia dean",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "total_score": 254.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "whisper my name \u2014 drake",
+      "title": "Whisper My Name",
+      "artist": "Drake",
+      "total_score": 244.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "chicago \u2014 michael jackson",
+      "title": "Chicago",
+      "artist": "Michael Jackson",
+      "total_score": 242.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Drake",
+      "total_score": 2518.0,
+      "appearances": 40
+    },
+    {
+      "artist": "Michael Jackson",
+      "total_score": 1040.0,
+      "appearances": 18
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 750.0,
+      "appearances": 10
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 536.0,
+      "appearances": 8
+    },
+    {
+      "artist": "Olivia Dean",
+      "total_score": 422.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Ariana Grande",
+      "total_score": 282.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Dominic Fike",
+      "total_score": 264.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Bruno Mars",
+      "total_score": 236.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 226.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 222.0,
+      "appearances": 3
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 1510.0,
+      "track_count": 24
+    },
+    {
+      "genre": "Country",
+      "total_score": 460.0,
+      "track_count": 12
+    },
+    {
+      "genre": "Pop",
+      "total_score": 304.0,
+      "track_count": 7
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 210.0,
+      "track_count": 5
+    },
+    {
+      "genre": "Music",
+      "total_score": 66.0,
+      "track_count": 2
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 88.0
+    },
+    {
+      "title": "Cinderella (w/ Ty Dolla $ign )",
+      "artist": "Mac Miller",
+      "score": 82.0
+    },
+    {
+      "title": "Shabang",
+      "artist": "Drake",
+      "score": 80.0
+    },
+    {
+      "title": "E85",
+      "artist": "Don Toliver",
+      "score": 78.0
+    },
+    {
+      "title": "Whisper My Name",
+      "artist": "Drake",
+      "score": 66.0
+    }
+  ],
+  "song_of_week": {
+    "key": "janice stfu \u2014 drake",
+    "title": "Janice STFU",
+    "artist": "Drake",
+    "total_score": 382.0,
+    "source_count": 4,
+    "coverage": "4/4 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Drake",
+    "total_score": 2518.0,
+    "appearances": 40
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 1510.0,
+    "track_count": 24
+  },
+  "one_to_watch": {
+    "title": "Be Her",
+    "artist": "Ella Langley",
+    "score": 88.0
+  }
+}
