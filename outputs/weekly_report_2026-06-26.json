@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-06-26",
+  "chart_sources_used": 4,
+  "top_songs": [
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 356.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "janice stfu \u2014 drake",
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "total_score": 330.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stupid song \u2014 olivia rodrigo",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "total_score": 292.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "hate that i made you love me \u2014 ariana grande",
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "total_score": 276.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the cure \u2014 olivia rodrigo",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "total_score": 272.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "be her \u2014 ella langley",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "total_score": 264.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "i knew it, i knew you \u2014 taylor swift",
+      "title": "I Knew It, I Knew You",
+      "artist": "Taylor Swift",
+      "total_score": 254.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "drop dead \u2014 olivia rodrigo",
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "total_score": 246.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "man i need \u2014 olivia dean",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "total_score": 244.0,
+      "source_count": 4,
+      "coverage": "4/4 sources",
+      "search_interest": null
+    },
+    {
+      "key": "honeybee \u2014 olivia rodrigo",
+      "title": "honeybee",
+      "artist": "Olivia Rodrigo",
+      "total_score": 238.0,
+      "source_count": 3,
+      "coverage": "3/4 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 2774.0,
+      "appearances": 44
+    },
+    {
+      "artist": "Drake",
+      "total_score": 978.0,
+      "appearances": 19
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 722.0,
+      "appearances": 11
+    },
+    {
+      "artist": "Michael Jackson",
+      "total_score": 552.0,
+      "appearances": 12
+    },
+    {
+      "artist": "Olivia Dean",
+      "total_score": 378.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Ariana Grande",
+      "total_score": 362.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Taylor Swift",
+      "total_score": 306.0,
+      "appearances": 5
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 290.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Bruno Mars",
+      "total_score": 220.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 214.0,
+      "appearances": 3
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 1052.0,
+      "track_count": 19
+    },
+    {
+      "genre": "Pop",
+      "total_score": 710.0,
+      "track_count": 14
+    },
+    {
+      "genre": "Country",
+      "total_score": 626.0,
+      "track_count": 14
+    },
+    {
+      "genre": "Music",
+      "total_score": 78.0,
+      "track_count": 1
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 57.99999999999999,
+      "track_count": 1
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 82.0
+    },
+    {
+      "title": "begged",
+      "artist": "Olivia Rodrigo",
+      "score": 62.0
+    },
+    {
+      "title": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "score": 54.0
+    },
+    {
+      "title": "I Got Better",
+      "artist": "Morgan Wallen",
+      "score": 52.0
+    },
+    {
+      "title": "cigarette smoke",
+      "artist": "Olivia Rodrigo",
+      "score": 48.0
+    }
+  ],
+  "song_of_week": {
+    "key": "choosin' texas \u2014 ella langley",
+    "title": "Choosin' Texas",
+    "artist": "Ella Langley",
+    "total_score": 356.0,
+    "source_count": 4,
+    "coverage": "4/4 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Olivia Rodrigo",
+    "total_score": 2774.0,
+    "appearances": 44
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 1052.0,
+    "track_count": 19
+  },
+  "one_to_watch": {
+    "title": "Be Her",
+    "artist": "Ella Langley",
+    "score": 82.0
+  }
+}
