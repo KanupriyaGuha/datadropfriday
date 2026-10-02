@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-10-02",
+  "chart_sources_used": 3,
+  "top_songs": [
+    {
+      "key": "patient zero \u2014 taylor swift",
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "total_score": 300.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stupid song \u2014 olivia rodrigo",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "total_score": 258.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 252.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the cure \u2014 olivia rodrigo",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "total_score": 252.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "babylon \u2014 taylor swift",
+      "title": "Babylon",
+      "artist": "Taylor Swift",
+      "total_score": 240.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "pink clouding \u2014 taylor swift",
+      "title": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "total_score": 226.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "cleveland! \u2014 taylor swift",
+      "title": "Cleveland!",
+      "artist": "Taylor Swift",
+      "total_score": 214.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "nicole kidman \u2014 ad\u00e3\u0089la",
+      "title": "Nicole Kidman",
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 192.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "bby wow (w/ judeline , rusowsky ) \u2014 karol g",
+      "title": "BbY WOW (w/ Judeline , rusowsky )",
+      "artist": "KAROL G",
+      "total_score": 186.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "earrings \u2014 malcolm todd",
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "total_score": 176.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Taylor Swift",
+      "total_score": 1144.0,
+      "appearances": 15
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 624.0,
+      "appearances": 9
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 414.0,
+      "appearances": 9
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 398.0,
+      "appearances": 7
+    },
+    {
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 366.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Lil Baby",
+      "total_score": 330.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Drake",
+      "total_score": 278.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Future",
+      "total_score": 268.0,
+      "appearances": 5
+    },
+    {
+      "artist": "KAROL G",
+      "total_score": 186.0,
+      "appearances": 2
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 176.0,
+      "appearances": 2
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 824.0,
+      "track_count": 19
+    },
+    {
+      "genre": "Pop",
+      "total_score": 730.0,
+      "track_count": 10
+    },
+    {
+      "genre": "Country",
+      "total_score": 636.0,
+      "track_count": 12
+    },
+    {
+      "genre": "Music",
+      "total_score": 192.0,
+      "track_count": 4
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 168.0,
+      "track_count": 5
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "score": 76.0
+    },
+    {
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "score": 72.0
+    },
+    {
+      "title": "Orbiter",
+      "artist": "Noah Kahan",
+      "score": 68.0
+    },
+    {
+      "title": "oh yeah?",
+      "artist": "Steve Lacy",
+      "score": 64.0
+    },
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 57.99999999999999
+    }
+  ],
+  "song_of_week": {
+    "key": "patient zero \u2014 taylor swift",
+    "title": "Patient Zero",
+    "artist": "Taylor Swift",
+    "total_score": 300.0,
+    "source_count": 3,
+    "coverage": "3/3 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Taylor Swift",
+    "total_score": 1144.0,
+    "appearances": 15
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 824.0,
+    "track_count": 19
+  },
+  "one_to_watch": {
+    "title": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "score": 76.0
+  }
+}
