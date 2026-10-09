@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-10-09",
+  "chart_sources_used": 3,
+  "top_songs": [
+    {
+      "key": "patient zero \u2014 taylor swift",
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "total_score": 278.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the cure \u2014 olivia rodrigo",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "total_score": 262.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stupid song \u2014 olivia rodrigo",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "total_score": 256.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 244.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "nicole kidman \u2014 ad\u00e3\u0089la",
+      "title": "Nicole Kidman",
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 198.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "bby wow (w/ judeline , rusowsky ) \u2014 karol g",
+      "title": "BbY WOW (w/ Judeline , rusowsky )",
+      "artist": "KAROL G",
+      "total_score": 188.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "earrings \u2014 malcolm todd",
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "total_score": 184.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "ain't in la \u2014 ad\u00e3\u0089la",
+      "title": "Ain't In LA",
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 176.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "quebec \u2014 drake",
+      "title": "Quebec",
+      "artist": "Drake",
+      "total_score": 170.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stop the wedding! \u2014 ashe",
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "total_score": 164.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Drake",
+      "total_score": 642.0,
+      "appearances": 11
+    },
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 592.0,
+      "appearances": 9
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 430.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Taylor Swift",
+      "total_score": 382.0,
+      "appearances": 7
+    },
+    {
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 374.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Morgan Wallen",
+      "total_score": 368.0,
+      "appearances": 9
+    },
+    {
+      "artist": "Lil Baby",
+      "total_score": 302.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Future",
+      "total_score": 262.0,
+      "appearances": 5
+    },
+    {
+      "artist": "KAROL G",
+      "total_score": 188.0,
+      "appearances": 2
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 184.0,
+      "appearances": 2
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 832.0,
+      "track_count": 17
+    },
+    {
+      "genre": "Country",
+      "total_score": 604.0,
+      "track_count": 12
+    },
+    {
+      "genre": "R&B/Soul",
+      "total_score": 514.0,
+      "track_count": 10
+    },
+    {
+      "genre": "Pop",
+      "total_score": 420.0,
+      "track_count": 7
+    },
+    {
+      "genre": "Music",
+      "total_score": 180.0,
+      "track_count": 4
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "Draw You Out (w/ The Hunger Games )",
+      "artist": "Noah Kahan",
+      "score": 84.0
+    },
+    {
+      "title": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "score": 78.0
+    },
+    {
+      "title": "Solar Eclipse (w/ Don Toliver )",
+      "artist": "Drake",
+      "score": 74.0
+    },
+    {
+      "title": "Quebec",
+      "artist": "Drake",
+      "score": 72.0
+    },
+    {
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "score": 68.0
+    }
+  ],
+  "song_of_week": {
+    "key": "patient zero \u2014 taylor swift",
+    "title": "Patient Zero",
+    "artist": "Taylor Swift",
+    "total_score": 278.0,
+    "source_count": 3,
+    "coverage": "3/3 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Drake",
+    "total_score": 642.0,
+    "appearances": 11
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 832.0,
+    "track_count": 17
+  },
+  "one_to_watch": {
+    "title": "Draw You Out (w/ The Hunger Games )",
+    "artist": "Noah Kahan",
+    "score": 84.0
+  }
+}
