@@ -1,0 +1,196 @@
+{
+  "week_of": "2026-10-23",
+  "chart_sources_used": 2,
+  "top_songs": [
+    {
+      "key": "housewife \u2014 tate mcrae",
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "total_score": 200.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "nicole kidman \u2014 ad\u00e3\u0089la",
+      "title": "Nicole Kidman",
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 194.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "bby wow (w/ judeline , rusowsky ) \u2014 karol g",
+      "title": "BbY WOW (w/ Judeline , rusowsky )",
+      "artist": "KAROL G",
+      "total_score": 188.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "expectations (w/ chappell roan ) \u2014 olivia rodrigo",
+      "title": "expectations (w/ Chappell Roan )",
+      "artist": "Olivia Rodrigo",
+      "total_score": 188.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stop the wedding! \u2014 ashe",
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "total_score": 174.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "earrings \u2014 malcolm todd",
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "total_score": 172.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stupid song \u2014 olivia rodrigo",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "total_score": 172.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the cure \u2014 olivia rodrigo",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "total_score": 170.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "ain't in la \u2014 ad\u00e3\u0089la",
+      "title": "Ain't In LA",
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 170.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    },
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 158.0,
+      "source_count": 2,
+      "coverage": "2/2 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 614.0,
+      "appearances": 9
+    },
+    {
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 364.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 260.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Zach Bryan",
+      "total_score": 204.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Tate McRae",
+      "total_score": 200.0,
+      "appearances": 2
+    },
+    {
+      "artist": "KAROL G",
+      "total_score": 188.0,
+      "appearances": 2
+    },
+    {
+      "artist": "Ashe",
+      "total_score": 174.0,
+      "appearances": 2
+    },
+    {
+      "artist": "Malcolm Todd",
+      "total_score": 172.0,
+      "appearances": 2
+    },
+    {
+      "artist": "Steve Lacy",
+      "total_score": 162.0,
+      "appearances": 3
+    },
+    {
+      "artist": "The Neighbourhood",
+      "total_score": 152.0,
+      "appearances": 2
+    }
+  ],
+  "top_genres": [],
+  "breakout_picks": [
+    {
+      "title": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "score": 80.0
+    },
+    {
+      "title": "the feeling",
+      "artist": "Steve Lacy",
+      "score": 66.0
+    },
+    {
+      "title": "Lodi When",
+      "artist": "Zach Bryan",
+      "score": 64.0
+    },
+    {
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "score": 60.0
+    },
+    {
+      "title": "Orbiter",
+      "artist": "Noah Kahan",
+      "score": 56.00000000000001
+    }
+  ],
+  "song_of_week": {
+    "key": "housewife \u2014 tate mcrae",
+    "title": "Housewife",
+    "artist": "Tate McRae",
+    "total_score": 200.0,
+    "source_count": 2,
+    "coverage": "2/2 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Olivia Rodrigo",
+    "total_score": 614.0,
+    "appearances": 9
+  },
+  "genre_of_week": {},
+  "one_to_watch": {
+    "title": "Broken Window Serenade",
+    "artist": "Whiskey Myers",
+    "score": 80.0
+  }
+}
