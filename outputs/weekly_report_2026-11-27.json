@@ -1,0 +1,226 @@
+{
+  "week_of": "2026-11-27",
+  "chart_sources_used": 3,
+  "top_songs": [
+    {
+      "key": "all i want for christmas is you \u2014 mariah carey",
+      "title": "All I Want for Christmas Is You",
+      "artist": "Mariah Carey",
+      "total_score": 288.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "choosin' texas \u2014 ella langley",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "total_score": 254.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "housewife \u2014 tate mcrae",
+      "title": "Housewife",
+      "artist": "Tate McRae",
+      "total_score": 248.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "jingle bell rock \u2014 bobby helms",
+      "title": "Jingle Bell Rock",
+      "artist": "Bobby Helms",
+      "total_score": 248.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stop the wedding! \u2014 ashe",
+      "title": "Stop The Wedding!",
+      "artist": "Ashe",
+      "total_score": 232.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "the cure \u2014 olivia rodrigo",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "total_score": 212.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "underneath the tree \u2014 kelly clarkson",
+      "title": "Underneath the Tree",
+      "artist": "Kelly Clarkson",
+      "total_score": 210.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "stupid song \u2014 olivia rodrigo",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "total_score": 206.0,
+      "source_count": 3,
+      "coverage": "3/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "flower in a hurricane (w/ tame impala , sza , grand theft auto vi , king gizzard & the lizard wizard ) \u2014 justice",
+      "title": "Flower In A Hurricane (w/ Tame Impala , SZA , Grand Theft Auto VI , King Gizzard & The Lizard Wizard )",
+      "artist": "Justice",
+      "total_score": 200.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    },
+    {
+      "key": "last christmas \u2014 wham!",
+      "title": "Last Christmas",
+      "artist": "Wham!",
+      "total_score": 184.0,
+      "source_count": 2,
+      "coverage": "2/3 sources",
+      "search_interest": null
+    }
+  ],
+  "top_artists": [
+    {
+      "artist": "Olivia Rodrigo",
+      "total_score": 422.0,
+      "appearances": 7
+    },
+    {
+      "artist": "Ella Langley",
+      "total_score": 352.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Lil Baby",
+      "total_score": 302.0,
+      "appearances": 6
+    },
+    {
+      "artist": "Mariah Carey",
+      "total_score": 288.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Drake",
+      "total_score": 280.0,
+      "appearances": 6
+    },
+    {
+      "artist": "AD\u00c3\u0089LA",
+      "total_score": 274.0,
+      "appearances": 4
+    },
+    {
+      "artist": "Tate McRae",
+      "total_score": 248.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Bobby Helms",
+      "total_score": 248.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Wham!",
+      "total_score": 248.0,
+      "appearances": 3
+    },
+    {
+      "artist": "Future",
+      "total_score": 244.0,
+      "appearances": 5
+    }
+  ],
+  "top_genres": [
+    {
+      "genre": "Hip-Hop/Rap",
+      "total_score": 892.0,
+      "track_count": 18
+    },
+    {
+      "genre": "Country",
+      "total_score": 466.0,
+      "track_count": 8
+    },
+    {
+      "genre": "Music",
+      "total_score": 370.0,
+      "track_count": 7
+    },
+    {
+      "genre": "Holiday",
+      "total_score": 336.0,
+      "track_count": 6
+    },
+    {
+      "genre": "Pop",
+      "total_score": 262.0,
+      "track_count": 5
+    }
+  ],
+  "breakout_picks": [
+    {
+      "title": "It's the Most Wonderful Time of the Year",
+      "artist": "Andy Williams",
+      "score": 84.0
+    },
+    {
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "artist": "Dean Martin",
+      "score": 76.0
+    },
+    {
+      "title": "Christmas (Baby Please Come Home)",
+      "artist": "Darlene Love",
+      "score": 68.0
+    },
+    {
+      "title": "Sleigh Ride",
+      "artist": "The Ronettes",
+      "score": 66.0
+    },
+    {
+      "title": "nothing",
+      "artist": "Steve Lacy",
+      "score": 62.0
+    }
+  ],
+  "song_of_week": {
+    "key": "all i want for christmas is you \u2014 mariah carey",
+    "title": "All I Want for Christmas Is You",
+    "artist": "Mariah Carey",
+    "total_score": 288.0,
+    "source_count": 3,
+    "coverage": "3/3 sources",
+    "search_interest": null
+  },
+  "artist_of_week": {
+    "artist": "Olivia Rodrigo",
+    "total_score": 422.0,
+    "appearances": 7
+  },
+  "genre_of_week": {
+    "genre": "Hip-Hop/Rap",
+    "total_score": 892.0,
+    "track_count": 18
+  },
+  "one_to_watch": {
+    "title": "It's the Most Wonderful Time of the Year",
+    "artist": "Andy Williams",
+    "score": 84.0
+  }
+}
